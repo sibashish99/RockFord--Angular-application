@@ -1,0 +1,110 @@
+
+p{
+    width: 600px;
+}
+.groupDiv{
+    background-color: white;
+    width: 1500px;
+    height:850px;
+    position: absolute;
+    top: 100px;
+    border-radius: 5px;
+}
+.myDiv{
+    position: absolute;
+    left: 60px;
+    top: 0px;
+    background-color: rgb(138, 193, 214);
+    width: 850px;
+    height: 180px;
+}
+.mainDiv{
+    position: relative;
+    left: 10px;
+    top: 20px;
+    background-color: rgba(0, 146, 204, 0.788);
+    width: 1140px;
+    height: 180px;
+    border-radius: 5px;
+}
+.welcomeDiv{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    width:50px;
+}
+.lastDiv{
+    position: relative;
+    left: 0px;
+    top: 30px;
+    width: 450px;
+    height: 50px;
+    background-color: rgb(128, 208, 240);
+    border: 1px solid rgb(41, 82, 192);
+    border-radius: 5px;
+}
+.campusDiv{
+    position: absolute;
+    left: 550px;
+    top: 220px;
+    background-color: rgb(128, 208, 240);
+    height:180px;
+    width: 600px;
+    border-radius: 5px;
+}
+
+.onlineDiv{
+    position: absolute;
+    left: 550px;
+    top: 420px;
+    background-color: rgb(34, 172, 226);
+    height:180px;
+    width: 600px;
+    border-radius: 5px;
+}
+.lastDiv1{
+    position: absolute;
+    left: 550px;
+    top: 620px;
+    background-color: rgb(128, 208, 240);
+    height:200px;
+    width: 600px;
+    border-radius: 5px;
+}
+.loginDiv{
+    position: absolute;
+    left: 1155px;
+    top: 20px;
+    background-color: rgb(0, 0, 0);
+    height:250px;
+    width: 330px;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+.firstNav{
+    position: absolute;
+    left: 8px;
+    top: 50px;
+}
+.firstNav ul{
+    list-style-type: none;
+    margin: 2px;
+    padding: 02px;
+}
+.firstNav li{
+    display: inline;
+    border-radius:5px; 
+}
+.firstNav li a{
+  color: #ffffff;
+  text-align: center;
+  padding: 0 35px;
+  margin: 10px 10px 10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.firstNav li a:hover{
+    background-color: #f2f3e8;
+    border-radius: 5px;
+    color: rgb(77, 77, 77);
+}

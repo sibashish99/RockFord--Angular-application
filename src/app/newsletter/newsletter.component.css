@@ -1,0 +1,38 @@
+.news{
+    position: relative;
+    top: 1000px;
+    height: 500px;
+}
+
+.storyDiv{
+    position: absolute;
+    top:60px;
+    left:180px;
+    background-color:white;
+    height: 210px;
+    width: 300px;
+    border-radius: 5px;
+}
+.storyDiv1{
+    position: absolute;
+    top:60px;
+    left:580px;
+    background-color:white;
+    height: 210px;
+    width: 300px;
+    border-radius: 5px;
+}
+.storyDiv2{
+    position: absolute;
+    top:60px;
+    left:980px;
+    background-color:white;
+    height: 210px;
+    width: 300px;
+    border-radius: 5px;
+}
+.subsDiv{
+    position: relative;
+    top:300px;
+    left:500px;
+}

@@ -1,0 +1,52 @@
+.programDiv{
+    position: relative;
+    top: 1000px;
+    height: 500px;
+  }
+  .card1{
+      box-shadow: 0 4px 8px 0 rgba(192, 190, 190, 0.63);
+      width: 250px;
+      height: 300px;
+      background-color: #fafafa;
+      position: relative;
+      left: 150px;
+      top: 50px;
+      border-radius:5px;
+    }
+    
+    
+    .card1 .container {
+      padding: 2px 16px;
+    }
+    .card2{
+      box-shadow: 0 4px 8px 0 rgba(192, 190, 190, 0.63);
+      width: 250px;
+      height: 300px;
+      background-color: #fafafa;
+      position: absolute;
+      left: 600px;
+      top: 110px;
+      border-radius:5px;
+    }
+    
+    
+    .card2 .container {
+      padding: 2px 16px;
+    }
+    .card3{
+      box-shadow: 0 4px 8px 0 rgba(192, 190, 190, 0.63);
+      width: 250px;
+      height: 300px;
+      background-color: #fafafa;
+      position: absolute;
+      left: 1050px;
+      top: 110px;
+      border-radius:5px;
+    }
+    
+    
+    .card3 .container {
+      padding: 2px 16px;
+    }
+  
+  
