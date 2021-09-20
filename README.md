@@ -2,7 +2,7 @@
 
 ## CLone the Repository
 ```
-https://github.com/sibashish99/Angular_Project.git
+https://github.com/sibashish99/RockFord--Angular-application.git
 
 ```
 
